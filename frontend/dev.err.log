@@ -1,0 +1,276 @@
+[2m2:32:14 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/notes[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:32:14 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/customers?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:32:15 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/deals?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:32:15 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/leads?limit=100[39m
+AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:32:15 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/notifications[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:32:15 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/notes[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:32:15 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/customers?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:32:15 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/deals?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:32:15 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/reports/sales[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:32:15 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/reports/leads[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:32:15 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/reports/dashboard[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:32:15 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/leads?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:32:15 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/reports/sales[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:32:15 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/reports/leads[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:32:15 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/reports/dashboard[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:36:29 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/notifications[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:49 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/tasks?limit=200[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:49 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/deals?limit=200[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:49 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/customers?limit=200[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:49 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/users[39m
+AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:49 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/tasks?limit=200[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:49 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/deals?limit=200[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:49 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/customers?limit=200[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:49 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/users[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:50 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/notes[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:50 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/customers?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:50 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/leads?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:50 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/deals?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:50 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/notes[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:50 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/customers?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:50 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/leads?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:50 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/deals?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:51 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/deals?limit=200[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:51 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/tasks?limit=200[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:51 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/users[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:51 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/customers?limit=200[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:51 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/deals?limit=200[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:51 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/tasks?limit=200[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:51 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/users[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:51 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/customers?limit=200[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:54 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/notifications[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:55 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/notes[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:55 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/customers?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:55 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/leads?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:55 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/deals?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:55 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/notes[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:55 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/customers?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:55 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/leads?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:55 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/deals?limit=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:55 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/users?search=&role=&status=[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:55 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/users?search=&role=&status=[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:56 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/reports/sales[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:56 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/reports/leads[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:56 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/reports/sales[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:56 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/reports/leads[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:58 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/reports/dashboard[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:58 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/reports/dashboard[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:53:59 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/notifications[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:54:11 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/leads?search=&status=&page=1&limit=10[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:54:11 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/users[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:54:11 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/leads?search=&status=&page=1&limit=10[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:54:11 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/users[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:54:11 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/customers?search=&status=&page=1&limit=10[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:54:11 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/users[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:54:11 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/customers?search=&status=&page=1&limit=10[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:54:11 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/users[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:54:12 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/reports/dashboard[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:54:12 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/reports/dashboard[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m2:56:54 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/notifications[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
